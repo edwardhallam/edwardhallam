@@ -1,3 +1,5 @@
+<!-- Placeholder logo: replace assets/bespoke-bits-light.svg and assets/bespoke-bits-dark.svg with the real logo. -->
+<!-- Placeholder link: point both Bespoke Bits links at the website once it is live. -->
 <a href="https://github.com/bespokebits">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/bespoke-bits-dark.svg">

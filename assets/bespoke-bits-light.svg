@@ -1,10 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="96" viewBox="0 0 480 96" role="img" aria-label="Bespoke Bits">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="92" viewBox="0 0 480 92" role="img" aria-label="Bespoke Bits">
   <g fill="#1f2328">
     <rect x="8" y="16" width="28" height="28" rx="6"/>
     <rect x="40" y="16" width="28" height="28" rx="6" opacity="0.55"/>
     <rect x="8" y="48" width="28" height="28" rx="6" opacity="0.55"/>
     <rect x="40" y="48" width="28" height="28" rx="14"/>
   </g>
-  <text x="88" y="56" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="40" font-weight="700" fill="#1f2328" letter-spacing="-0.5">Bespoke Bits</text>
-  <text x="90" y="80" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#59636e">Small software, made to fit.</text>
+  <text x="88" y="60" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="40" font-weight="700" fill="#1f2328" letter-spacing="-0.5">Bespoke Bits</text>
 </svg>
